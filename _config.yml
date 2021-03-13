@@ -11,7 +11,7 @@ header_pages:
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: '© <a href="mailto:evgeny@zgursky.tk">evgeny@zgursky.tk</a>'
 
 # Build settings
 markdown: kramdown
