@@ -8,6 +8,7 @@ categories:
 # Инфо-бот БГТУ — от идеи до реализации
 
 ![Аватар инфо-бота БГТУ](https://github.com/xhable1337/site/raw/master/images/bgtu-bot-pic.jpg)
+![yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## В начале было слово...
 Откуда возникла идея написать бота, который бы предоставлял доступ к расписанию, не выходя из любимого мессенджера? Вернёмся в 2016 год.
