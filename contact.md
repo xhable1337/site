@@ -6,5 +6,6 @@ permalink: /contact
 
 # Контакты
 
-Если вы хотите связаться со мной, проще всего это сделать через <a href=https://vk.com/johnnyxhb>VK</a> или <a href=https://t.me/xhable>Telegram</a>.
-Мой e-mail для связи: <a href=mailto:evgeny@zgursky.tk>evgeny@zgursky.tk</a>.
+Если вы хотите связаться со мной, проще всего это сделать через [VK](https://vk.com/johnnyxhb) или [Telegram](https://t.me/xhable).
+
+Мой e-mail для связи: [evgeny@zgursky.tk](mailto:evgeny@zgursky.tk).
