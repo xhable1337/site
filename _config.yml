@@ -5,8 +5,7 @@ url: "https://xhable1337.github.io"
 
 header_pages:
   - index.md
-  - peter.md
-  - about.md
+  - order.md
   - contact.md
 
 style: dark
