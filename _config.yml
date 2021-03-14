@@ -1,6 +1,6 @@
 title: 'xhable1337.github.io'
 description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
-baseurl: "/site"
+baseurl: "/"
 url: "https://xhable1337.github.io"
 
 header_pages:
